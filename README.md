@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @yashjhota
-- 👀 I love Data
-- 🌱 I’m currently learning Excel,Python,Sql..
-- 📫 How to reach me jhotayash@gmail.com
-- 😄 Pronouns: Mr
-- ⚡ Fun fact: Appreciate the talent & Respect the Intention
+- 👀 I love  Working with Data
+- ⚡ Appreciate the talent & Respect the Intention
 
 <!---
 yashjhota/yashjhota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
