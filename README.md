@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yashjhota
-- 👀 I’m interested in Data Analysis
+- 👀 I love Data
 - 🌱 I’m currently learning Excel,Python,Sql..
 - 📫 How to reach me jhotayash@gmail.com
 - 😄 Pronouns: Mr
